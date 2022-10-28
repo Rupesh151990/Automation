@@ -1,0 +1,82 @@
+[INFO ] 2022-10-27 13:14:34.174 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 13:14:39.283 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 13:14:53.382 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 13:14:53.496 [main] Logs - On Test Case Finished....!!!!Test
+[INFO ] 2022-10-27 13:42:42.379 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 13:42:46.944 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 13:42:58.464 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 13:43:02.117 [main] Logs - On Test Start...!!!VerifyInvalidCred
+[INFO ] 2022-10-27 13:43:09.419 [main] Logs - On Test Success....!!!!VerifyInvalidCred
+[INFO ] 2022-10-27 13:43:25.628 [main] Logs - On Test Case Finished....!!!!Test
+[INFO ] 2022-10-27 13:43:53.253 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 13:43:58.237 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 13:44:07.885 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 13:44:12.696 [main] Logs - On Test Start...!!!VerifyInvalidCred
+[INFO ] 2022-10-27 13:44:17.239 [main] Logs - On Test Success....!!!!VerifyInvalidCred
+[INFO ] 2022-10-27 13:44:17.360 [main] Logs - On Test Case Finished....!!!!Test
+[INFO ] 2022-10-27 15:22:25.009 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 15:22:29.859 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 15:22:38.398 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 15:22:57.883 [main] Logs - On Test Start...!!!VerifyInvalidCred
+[INFO ] 2022-10-27 15:23:02.217 [main] Logs - On Test Success....!!!!VerifyInvalidCred
+[INFO ] 2022-10-27 15:23:18.504 [main] Logs - On Test Case Finished....!!!!Test
+[INFO ] 2022-10-27 15:25:23.570 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 15:25:28.194 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 15:25:37.202 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 15:25:57.030 [main] Logs - On Test Start...!!!VerifyInvalidCred
+[INFO ] 2022-10-27 15:25:57.129 [main] Logs - On Test Failure....!!!!VerifyInvalidCred
+[INFO ] 2022-10-27 15:26:13.414 [main] Logs - On Test Case Finished....!!!!Test
+[INFO ] 2022-10-27 16:34:41.431 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 16:34:46.514 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 16:34:55.253 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 16:35:14.916 [main] Logs - On Test Start...!!!VerifyInvalidCred
+[INFO ] 2022-10-27 16:35:19.221 [main] Logs - On Test Success....!!!!VerifyInvalidCred
+[INFO ] 2022-10-27 16:35:38.471 [main] Logs - On Test Start...!!!verifyHomePage
+[INFO ] 2022-10-27 16:35:38.480 [main] Logs - On Test Success....!!!!verifyHomePage
+[INFO ] 2022-10-27 16:35:54.783 [main] Logs - On Test Case Finished....!!!!Test
+[INFO ] 2022-10-27 16:37:42.212 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 16:37:47.102 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 16:37:57.714 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 16:38:17.662 [main] Logs - On Test Start...!!!VerifyInvalidCred
+[INFO ] 2022-10-27 16:38:21.942 [main] Logs - On Test Success....!!!!VerifyInvalidCred
+[INFO ] 2022-10-27 16:38:41.668 [main] Logs - On Test Start...!!!verifyHomePage
+[INFO ] 2022-10-27 16:38:50.190 [main] Logs - On Test Success....!!!!verifyHomePage
+[INFO ] 2022-10-27 16:38:50.279 [main] Logs - On Test Case Finished....!!!!Test
+[INFO ] 2022-10-27 16:40:56.674 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 16:41:01.202 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 16:41:09.702 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 16:41:30.984 [main] Logs - On Test Start...!!!VerifyInvalidCred
+[INFO ] 2022-10-27 16:41:35.931 [main] Logs - On Test Success....!!!!VerifyInvalidCred
+[INFO ] 2022-10-27 16:41:55.454 [main] Logs - On Test Start...!!!verifyHomePage
+[INFO ] 2022-10-27 16:42:03.943 [main] Logs - On Test Failure....!!!!verifyHomePage
+[INFO ] 2022-10-27 16:42:04.040 [main] Logs - On Test Case Finished....!!!!Test
+[INFO ] 2022-10-27 17:12:13.042 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 17:12:13.078 [main] Logs - Reading the Property File and calling the browser Setup Function
+[INFO ] 2022-10-27 17:12:17.370 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 17:12:17.370 [main] Logs - Verifying the Login Functionality with Vaild Credentials
+[INFO ] 2022-10-27 17:12:26.399 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 17:12:26.517 [main] Logs - Reading the Property File and calling the browser Setup Function
+[INFO ] 2022-10-27 17:12:29.785 [main] Logs - On Test Start...!!!VerifyInvalidCred
+[INFO ] 2022-10-27 17:12:29.786 [main] Logs - Verifying the Login Functionality with In-Vaild Credentials
+[INFO ] 2022-10-27 17:12:34.212 [main] Logs - On Test Success....!!!!VerifyInvalidCred
+[INFO ] 2022-10-27 17:12:34.340 [main] Logs - Reading the Property File and calling the browser Setup Function
+[INFO ] 2022-10-27 17:12:37.742 [main] Logs - On Test Start...!!!verifyHomePage
+[INFO ] 2022-10-27 17:12:37.744 [main] Logs - Verifying the Title of the HomePage
+[INFO ] 2022-10-27 17:12:37.744 [main] Logs - Verifying the Login Functionality with Vaild Credentials
+[INFO ] 2022-10-27 17:12:46.385 [main] Logs - On Test Failure....!!!!verifyHomePage
+[INFO ] 2022-10-27 17:13:02.650 [main] Logs - On Test Case Finished....!!!!Test
+[INFO ] 2022-10-27 18:28:00.775 [main] Logs - Test on Start.....!!!!!Test
+[INFO ] 2022-10-27 18:28:00.828 [main] Logs - Reading the Property File and calling the browser Setup Function
+[INFO ] 2022-10-27 18:28:06.463 [main] Logs - On Test Start...!!!VerifyVaildLogin
+[INFO ] 2022-10-27 18:28:06.463 [main] Logs - Verifying the Login Functionality with Vaild Credentials
+[INFO ] 2022-10-27 18:28:15.381 [main] Logs - On Test Success....!!!!VerifyVaildLogin
+[INFO ] 2022-10-27 18:28:15.634 [main] Logs - Reading the Property File and calling the browser Setup Function
+[INFO ] 2022-10-27 18:28:19.324 [main] Logs - On Test Start...!!!VerifyInvalidCred
+[INFO ] 2022-10-27 18:28:19.327 [main] Logs - Verifying the Login Functionality with In-Vaild Credentials
+[INFO ] 2022-10-27 18:28:23.885 [main] Logs - On Test Success....!!!!VerifyInvalidCred
+[INFO ] 2022-10-27 18:28:40.107 [main] Logs - Reading the Property File and calling the browser Setup Function
+[INFO ] 2022-10-27 18:28:43.552 [main] Logs - On Test Start...!!!verifyHomePage
+[INFO ] 2022-10-27 18:28:43.552 [main] Logs - Verifying the Title of the HomePage
+[INFO ] 2022-10-27 18:28:43.552 [main] Logs - Verifying the Login Functionality with Vaild Credentials
+[INFO ] 2022-10-27 18:28:52.392 [main] Logs - On Test Failure....!!!!verifyHomePage
+[INFO ] 2022-10-27 18:28:52.562 [main] Logs - On Test Case Finished....!!!!Test
